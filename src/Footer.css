@@ -1,0 +1,18 @@
+.downcomp{
+    background-color: black;
+    color:#fff ;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 140px;
+}
+.firstpart p{
+    font-weight: 80;
+    font-size: 15px;
+
+}
+.firstpart h1{
+    font-weight: 400;
+    font-size: 22px;
+
+}

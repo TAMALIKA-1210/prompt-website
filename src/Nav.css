@@ -1,0 +1,55 @@
+.Navbar{
+    display: flex;
+    margin-left: 59px;
+    gap: 43px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 555;
+    margin-top: 28px;
+    
+}
+.Navbar a{
+    text-decoration: none;
+    color: black;
+
+}
+.Navbar button{
+    height: 38px;
+    width: 106px;
+    border-radius: 13px;
+    border: none;
+    background-color: #FFA943;
+    font-family:'Ubuntu', sans-serif ;
+    margin-top: -11px;
+    font-size: medium;
+}
+.description h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 335;
+    font-size: 60px;
+
+}
+.description p{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    width: 550px;
+    text-align: justify;
+    font-size: 20px;
+    margin-top: -23px;
+
+}
+.description{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.add button{
+    background-color: #FFA943;
+    border-radius: 13px;
+    border: none;
+    height: 60px;
+    width: 220px;
+    margin-left: 228px;
+    margin-top: 155px;
+    font-family:'Ubuntu', sans-serif ;
+    font-size: larger;
+  
+}

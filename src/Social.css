@@ -1,0 +1,19 @@
+.socialapp{
+    background-color: #FFEC3D;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 50px;
+
+}
+.socialapp h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+.apps{
+    height: 69px;
+    display: flex;
+    gap: 70px;
+    margin-top: 20px;
+}
